@@ -101,8 +101,7 @@
 
 @each $accent in map-keys($accent-colors) {
   .accent-#{$accent} {
-    .button,
-    .line-top:before {
+    .button {
       border-color: map-get($accent-colors, $accent);
     }
 
