@@ -41,7 +41,7 @@
     {{ if gt $post_index_length 0 }}
     <nav class="section section--posts">
       <div class="container container--lg">
-        <h2 class="section__title line-top">Read Next</h2>
+        <h2 class="section__title">Read Next</h2>
         <div class="grid post-feed post-feed--col-two">
           {{ if ne $curr_index 0 }}
             {{ $prev_post := index $posts_sorted $prev_index }}
