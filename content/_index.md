@@ -12,8 +12,8 @@ sections:
 seo:
   title: johandraew
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    Hello im johandraew this is my blog, thankyou for u vist // Hola soy johan
+    este es mi blog, gracias por tu visita.
   extra:
     - name: 'og:type'
       value: website
