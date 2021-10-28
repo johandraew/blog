@@ -4,14 +4,13 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      Oops.
+    title: Oops.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: johandraew
   description: >-
     We are a brand and design practice. We work closely with you, your team to
     deliver inspiring work, which enables your organization to grow.
