@@ -5,7 +5,6 @@
     "base_font": "fraunces",
     "header": {
         "title": "johandraew",
-        "logo": "images/logo.svg",
         "logo_alt": "Agency logo",
         "has_nav": false,
         "nav_links": [
