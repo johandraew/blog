@@ -3,38 +3,6 @@
     "color_scheme": "light",
     "accent_color": "blue",
     "base_font": "karla",
-    "header": {
-        "title": "johandraew",
-        "logo_alt": "Agency logo",
-        "has_nav": false,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "label": "Journal",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "button"
-            }
-        ]
-    },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "has_social": true,
