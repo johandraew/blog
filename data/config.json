@@ -8,7 +8,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter false",
+                "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon": "twitter",
