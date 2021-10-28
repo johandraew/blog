@@ -38,5 +38,9 @@ seo:
       value: images/seo.png
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/seo.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
