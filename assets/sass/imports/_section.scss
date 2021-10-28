@@ -153,3 +153,19 @@
     }
   }
 }
+
+/**
+ * Hole background
+ */
+
+ .hole-box {
+    text-align: center;
+    padding-top: 7em;
+    padding-bottom: 7em;
+ }
+
+ @media only screen and (min-width: 601px) {
+  .hole-box {
+      text-align: center;
+  }
+ }
