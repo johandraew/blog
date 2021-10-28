@@ -22,19 +22,6 @@
   }
 }
 
-// Top line decoration
-.line-top {
-  position: relative;
-
-  &:before {
-    border-left: 45px solid $color-accent;
-    content: "";
-    display: block;
-    height: 3px;
-    margin-bottom: 0.83333rem;
-  }
-}
-
 // Grid
 .grid {
   display: -ms-flexbox;
