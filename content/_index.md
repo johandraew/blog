@@ -19,7 +19,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: johandraew
       keyName: property
     - name: 'og:description'
       value: >-
