@@ -8,6 +8,11 @@
   }
 }
 
+a.header {
+    border-bottom: 1px solid $color-blue;
+    color: $color-blue;
+}
+
 .navbar {
   -ms-flex-align: center;
   align-items: center;
