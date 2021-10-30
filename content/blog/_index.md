@@ -5,7 +5,6 @@ hide_title: false
 col_number: three
 seo:
   title: Blog
-  description: This is the journal page
   extra:
     - name: 'og:type'
       value: website
