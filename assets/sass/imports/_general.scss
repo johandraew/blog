@@ -222,3 +222,19 @@ figcaption {
   line-height: 1.5;
   margin: 0.5em 0 0;
 }
+
+img.to_home {
+  width: 10px;
+  height: 10px;
+  padding-left: 2px;
+}
+
+.header_link {
+  margin-top: -4em;
+  text-align: right;
+  color: $color-gray-300;
+}
+
+.header_to {
+  text-decoration: underline;
+}

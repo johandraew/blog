@@ -3,6 +3,9 @@
 {{ $col_number := .Params.col_number | default "three" }}
 
 <header class="section section--header{{ if .Params.hide_title }} screen-reader-text{{ end }}">
+  <div class="header_link container">
+    <a class="header_to" href="/">draew.com<a>/</a><img class="to_home" src="/images/seo.png"></a>
+</div>
   <div class="container container--lg">
     <h1 class="section__title">{{ .Params.title }}</h1>
     {{ if .Params.subtitle }}
