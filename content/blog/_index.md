@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: images/seo.png
       relativeUrl: true
 layout: blog
 ---
