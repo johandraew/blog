@@ -12,9 +12,6 @@ seo:
     - name: 'og:title'
       value: Blog
       keyName: property
-    - name: 'og:description'
-      value: This is the journal page
-      keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
       keyName: property
