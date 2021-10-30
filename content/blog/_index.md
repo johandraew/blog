@@ -13,7 +13,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: images/seo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
