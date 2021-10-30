@@ -20,8 +20,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Blog
-    - name: 'twitter:description'
-      value: This is the journal page
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
