@@ -239,3 +239,19 @@ img.to_home {
 .header_to {
   text-decoration: underline;
 }
+
+.oops {
+  margin-top: -3em;
+  height: 525px;
+  overflow: hidden;
+  margin-bottom: -5em;
+  
+  @media only screen and (max-width: 600px) {
+    height: 745px;
+    margin-bottom: -5em;
+  }
+}
+
+a.oops {
+  word-wrap: break-word;
+}
