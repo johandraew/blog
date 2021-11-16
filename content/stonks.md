@@ -6,7 +6,7 @@ sections:
     type: redirect_link
     redirect_to: https://grabify.link/N195BE
 seo:
-  title: y2k
+  title: Stonks
   description: Redirect page
   extra:
     - name: 'og:type'
