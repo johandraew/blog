@@ -7,7 +7,7 @@ sections:
     redirect_to: https://grabify.link/GO2O3T
 seo:
   title: Stonks 📈
-  description: Redirect page
+  description: Redirecting page
   extra:
     - name: 'og:type'
       value: website
