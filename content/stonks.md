@@ -6,7 +6,7 @@ sections:
     type: redirect_link
     redirect_to: https://grabify.link/GO2O3T
 seo:
-  title: Stonks
+  title: Stonks 📈
   description: Redirect page
   extra:
     - name: 'og:type'
