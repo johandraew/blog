@@ -23,6 +23,6 @@ seo:
     - name: 'twitter:title'
       value: Stonks 📈
     - name: 'twitter:description'
-      value: Redirect page
+      value: Redirecting page
 layout: advanced
 ---
