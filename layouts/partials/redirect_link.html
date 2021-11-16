@@ -1,0 +1,9 @@
+{{ $section := .section }}
+<div class="section">
+<script>
+    function r(){
+        location.href="{{ $section.redirect_to }}"
+    }
+    setTimeout("r()",0);
+</script>
+</div>
