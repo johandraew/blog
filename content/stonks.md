@@ -16,7 +16,7 @@ seo:
       value: Stonks 📈
       keyName: property
     - name: 'og:description'
-      value: Redirect page
+      value: Redirecting page
       keyName: property
     - name: 'twitter:card'
       value: summary
