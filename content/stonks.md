@@ -1,5 +1,5 @@
 ---
-title: Redirect!
+title: Stonks
 hide_title: true
 sections:
   - section_id: redirect
