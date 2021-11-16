@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: redirect
     type: redirect_link
-    redirect_to: https://grabify.link/track/6OJOCE
+    redirect_to: https://grabify.link/N195BE
 seo:
   title: Stonks
   description: Redirect page
