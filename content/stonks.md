@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Stonks 📈
     - name: 'twitter:description'
       value: Redirect page
 layout: advanced
