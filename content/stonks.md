@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Stonks 📈
       keyName: property
     - name: 'og:description'
       value: Redirect page
